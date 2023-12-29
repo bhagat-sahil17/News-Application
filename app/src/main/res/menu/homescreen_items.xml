@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/btnHome"
+        android:title="Home"
+        android:icon="@drawable/ic_android_black_24dp"/>
+    <item
+        android:id="@+id/btnSearch"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="Search" />
+    <item
+        android:id="@+id/btnSave"
+        android:title="Saved"
+        android:icon="@drawable/ic_launcher_background"/>
+</menu>
